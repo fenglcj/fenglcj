@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Welcome to demo hello! feng Commands","title":"Welcome to demo"},{"location":"#welcome-to-demo","text":"hello! feng","title":"Welcome to demo"},{"location":"#commands","text":"","title":"Commands"}]}
